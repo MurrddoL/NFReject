@@ -1,3 +1,7 @@
 DOMAIN,ios.ngp.prod.cloud.netflix.com,REJECT
 DOMAIN,appboot.netflix.com,REJECT
 DOMAIN,ios.prod.cloud.netflix.com,REJECT
+
+# > Netflix
+server=/appboot.netflix.com/1.1.1.1
+server=/ios.prod.cloud.netflix.com/1.1.1.1
